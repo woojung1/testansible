@@ -21,5 +21,3 @@
         state: started
         enabled: true
 
-    - name: index.html create
-      get_url: url=https://www.nginx.com dest=/var/www/html
